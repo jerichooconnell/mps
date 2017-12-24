@@ -30,10 +30,10 @@ button {
   font: bold 35px/40px "Roboto Slab", serif;
   top: 10%;
   font-weight: 400;
-  background-color: #4444;
+  background-color: #0000;
   border: none;
   text-transform: uppercase;
-  padding: 10px 30px;
+  padding: 10px 10px;
   border-radius: 2px;
   z-index: 1;
   -webkit-transition: 0.3s;
@@ -41,7 +41,7 @@ button {
 }
 
 button:hover {
-  background-color: #0000;
+  background-color: #2222;
 }
 
 button.hidden {
