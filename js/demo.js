@@ -129,5 +129,6 @@
     // Start
 
     runAnimation();
+    animating = !animating
 
 })();
